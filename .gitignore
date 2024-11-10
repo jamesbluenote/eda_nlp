@@ -13,4 +13,12 @@ outputs_f3*
 outputs_f4*
 baseline_cnn*
 baseline_rnn*
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+.ipynb_checkpoints
+._.ipynb_checkpoints
+**/.ipynb_checkpoints
+**/._.ipynb_checkpoints
 
